@@ -1,5 +1,5 @@
 # ML-DP_Differencier_arbres_fleurs
-Utilisation de Machine Learning puis Deep Learning pour différencier les arbres des fleurs dans le cadre d'un projet ingénieur M2  
+Utilisation de différentes méthodes de Machine Learning et de Deep Learning pour différencier les arbres des fleurs dans le cadre d'un projet ingénieur M2  
 
 Date du projet : octobre 2022  
 
